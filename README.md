@@ -32,7 +32,7 @@
 ![train_options_tab](sample_cfg/general_cfg/train_options_tab.png)
 
 
-2. For Low level TH Farming
+2. For Low level TH Farming (may change when TH is upgraded?)
 
 
 ![train](sample_cfg/th_dependent_cfg/train_low_th_tab.png)
@@ -74,3 +74,7 @@ TH9+: SuperBarb
 ```
 
 - also play BB to get OTTO
+
+
+# Credits
+- Big thanks to Jason and the staff of FU for helping me overcome the disappointment after being "kicked in the ass" and building this config from scratch.
