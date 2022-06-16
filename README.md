@@ -5,7 +5,8 @@
 
 # Account guidelines
 1. NO participating in real-war clan (or any clans with normal players)
-2. <3 hours online per days (<200 wins per season)
+2. < 3 hours online per days (<200 wins per season)
+3. Use human-like attack strategy (avoid using normal attacks on higher TH levels)
 
 # Config Guidelines
 1. General Config
@@ -51,6 +52,7 @@
 
 
 # New accounts plan
+- Use Bluestacks Sync Operation or equivalent methods found in MEmu and Nox to speed up the process
 - Create manually, name, attach SPC_ID
 - gem to get CC
 - start farming
@@ -59,7 +61,7 @@
 
 
 ```
-Before TH11: Barch
+Before TH11: Mass Archers
 TH11++: Mass SuperBarb
 TrophyPush: Lavaloon
 ``` 
@@ -74,6 +76,7 @@ TH9+: SuperBarb
 ```
 
 - also play BB to get OTTO
+- Focus on upgrading Giant and Cannon Cart, level up Bomber only to level 10
 
 
 # Credits
