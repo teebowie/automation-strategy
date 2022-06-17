@@ -1,7 +1,7 @@
 # Plans for New Accounts
 
-### People should create ~10-16 accounts per instance (Bot will run 1 account for just about 10 minutes --> more accounts --> less online time --> less chance to be "hammered")
-### If you are "hammered" before, it's good to delete all profiles and shared_prefs --> make a new start
+### - People should create ~10-16 accounts per instance (Bot will run 1 account for just about 10 minutes --> more accounts --> less online time --> less chance to be "hammered")
+### - If you are "hammered" before, it's good to delete all profiles and shared_prefs --> make a new start
 
 # Account guidelines
 1. NO participating in real-war clan (or any clans with normal players)
