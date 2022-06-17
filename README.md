@@ -62,7 +62,10 @@ From my perspective (Tee), I think people should focus on rushing rather than wa
 
 
 ![autoupgrade](/sample_cfg/th_dependent_cfg/auto_upgrade_tab.png)
+
+
 *Remember to turn off "Use Wall reserve Builder"*
+
 
 ![lab](/sample_cfg/th_dependent_cfg/lab_tab.png)
 # New accounts plan
