@@ -1,7 +1,7 @@
 # Plans for New Accounts
 
-### Will automate 8 accounts per instance --> less online time per account
-### Delete old shared_prefs && profiles
+### People should create ~10-16 accounts per instance (Bot will run 1 account for just about 10 minutes --> more accounts --> less online time --> less chance to be "hammered")
+### If you are "hammered" before, it's good to delete all profiles and shared_prefs --> make a new start
 
 # Account guidelines
 1. NO participating in real-war clan (or any clans with normal players)
@@ -15,6 +15,9 @@
 ![android_tab](sample_cfg/general_cfg/android_tab.png)
 
 
+```
+Remember to enable "Background Mode" --> this will enable "Hide Android" + prevent strange errors
+```
 ![options_tab](sample_cfg/general_cfg/options_tab.png)
 
 
@@ -27,13 +30,14 @@
 ![village_tab](sample_cfg/general_cfg/village_tab.png)
 
 
+**CAUTION**: You should locate *buildings* using Manual Locate mode (especially Laboratory)
 ![rush_th_tab](sample_cfg/general_cfg/rush_th_tab.png)
 
 
 ![train_options_tab](sample_cfg/general_cfg/train_options_tab.png)
 
 
-2. For Low level TH Farming (may change when TH is upgraded?)
+2. For Low level TH Farming (may change when TH is upgraded)
 
 
 ![train](sample_cfg/th_dependent_cfg/train_low_th_tab.png)
@@ -51,13 +55,23 @@
 ![wallupgrade](sample_cfg/th_dependent_cfg/wall_upgrade_tab.png)
 
 
+```
+From my perspective (Tee), I think people should focus on rushing rather than wall. 
+--> Therefore, I turned off Wall Upgrade in my setting.
+```
+
+
+![autoupgrade](/sample_cfg/th_dependent_cfg/auto_upgrade_tab.png)
+*Remember to turn off "Use Wall reserve Builder"*
+
+![lab](/sample_cfg/th_dependent_cfg/lab_tab.png)
 # New accounts plan
 - Use Bluestacks Sync Operation or equivalent methods found in MEmu and Nox to speed up the process
 - Create manually, name, attach SPC_ID
-- gem to get CC
-- start farming
-- priority: rush TH --> heroes / defense / troops (follow rushTH setting)
-- troops compo:
+- Gem to get CC
+- Start farming
+- Priority: rush TH --> heroes / defense / troops (follow rushTH setting)
+- Troops compo:
 
 
 ```
@@ -75,9 +89,12 @@ TH7-8: Giants (frontline for your Barch)
 TH9+: SuperBarb
 ```
 
-- also play BB to get OTTO
+- Also play BB to get OTTO
 - Focus on upgrading Giant and Cannon Cart, level up Bomber only to level 10
 
+# Personal Advice
+- If you have time, you can combine automation and manual play, since resources in low TH level will overflow quickly, but sometimes bot can not handle that amount.
+- Bot with precaution!
 
 # Credits
 - Big thanks to Jason and the staff of FU for helping me overcome the disappointment after being "kicked in the ass" and building this config from scratch.
